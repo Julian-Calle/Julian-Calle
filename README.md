@@ -18,7 +18,7 @@ const Julian = {
   tools: [React, Node, Express],
   favoriteWordInEnglish : "righteousness",
   favoriteWordInSpanish : "curioso",
-  challenge: "I am doing doing my best every day to become in an excellent  developer that can shape the future"
+  challenge: "I am doing my best every day to become in an excellent  developer that can shape the future"
 }
 ```
 
