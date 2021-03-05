@@ -14,7 +14,7 @@
 
 ```javascript
 const Julian = {
-  code: [Javascript, HTML, CSS, Ruby, Python, Java, VBA,  MySQL],
+  code: [Javascript, HTML, CSS, Python, Java, VBA,  MySQL],
   tools: [React, Node, Express],
   favoriteWordInEnglish : "righteousness",
   favoriteWordInSpanish : "curioso",
