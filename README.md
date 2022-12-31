@@ -1,7 +1,7 @@
 <h2> Hi, I'm Julian! 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="230">
-<p><em>Full Stack developer at <a href="https://hackaboss.com/blog/que-es-curso-full-stack/?origen=gads_dsa&utm_term=&utm_campaign=_ADS-Search-DSA-Blog&utm_source=adwords&utm_medium=ppc&hsa_acc=1070315109&hsa_cam=7865935886&hsa_grp=82364989419&hsa_ad=435321157154&hsa_src=g&hsa_tgt=dsa-39587879683&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAp4KCBhB6EiwAxRxbpGCY91_9p4jTN-59ugBUyVrWxWc5ouYN7aVu10HRLPTkku-MKgaKRhoCDC0QAvD_BwE">HACKABOSS' bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Full Stack developer at <a href="https://hackaboss.com/blog/que-es-curso-full-stack/?origen=gads_dsa&utm_term=&utm_campaign=_ADS-Search-DSA-Blog&utm_source=adwords&utm_medium=ppc&hsa_acc=1070315109&hsa_cam=7865935886&hsa_grp=82364989419&hsa_ad=435321157154&hsa_src=g&hsa_tgt=dsa-39587879683&hsa_kw=&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAiAp4KCBhB6EiwAxRxbpGCY91_9p4jTN-59ugBUyVrWxWc5ouYN7aVu10HRLPTkku-MKgaKRhoCDC0QAvD_BwE">HACKABOSS' bootcamp</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> --> This is my porfolio <a href="https://portfolio-julian-calle.vercel.app">CLIC HERE</a>
 </br>Robotics programmer at <a href="https://ledissonait.com/">Ledison AIT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>Energy engineering at <a href="https://www.uvigo.gal/">University of Vigo</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
